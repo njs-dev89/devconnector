@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://najamkhan89:karachi89@najamcluster-i50a3.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "myappsecretforjwt",
-  "githubClientId": "189f01f6522e14d700e1",
-  "githubSecret": "36edbe2ab958feddf31718833754674bc971f2c6"
-}
